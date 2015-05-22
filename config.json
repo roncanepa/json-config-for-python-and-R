@@ -1,0 +1,17 @@
+{
+    "end_time": 24,
+    "periods": 1,
+    "event": "has_taken",
+    "temp_table": "analysis",
+    "status_age_column": "last_visit_age",
+    "periods": 8,
+    "months_per_period": 3,
+    "table_map": [
+        {"u":"target_table_1", "s":"source_table_1"},
+        {"u":"target_table_2", "s":"source_table_2"},
+        {"u":"target_table_3", "s":"source_table_3"}
+
+    ],
+    "table_list": ["table1", "table2"]
+
+}
